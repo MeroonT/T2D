@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+author = MeroonTesfai
+title = FooKG_T2D
+date-released: 2017-08-25
+month = 8
+howpublished ="\href{https://github.com/MeroonT/T2D}{Online link}"
+url = "https://github.com/MeroonT/T2D"
+version = 2.0.4
+year = {2022}
