@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Tesfai"
-  given-names: "meroon"
-title: "FooKG_T2D"
+  given-names: "Meroon"
+title: "FoodKG_T2D"
 version: 2.0.4
 date-released: 2022-08-25
 url: "https://github.com/MeroonT/T2D"
